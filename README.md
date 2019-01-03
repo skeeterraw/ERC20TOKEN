@@ -1,0 +1,2 @@
+# ERC20TOKEN
+ERC20 Token
